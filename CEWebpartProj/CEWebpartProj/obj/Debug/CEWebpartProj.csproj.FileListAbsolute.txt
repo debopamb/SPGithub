@@ -1,0 +1,5 @@
+c:\users\debopam.basu\documents\visual studio 2012\Projects\CEWebpartProj\CEWebpartProj\bin\Debug\CEWebpartProj.dll
+c:\users\debopam.basu\documents\visual studio 2012\Projects\CEWebpartProj\CEWebpartProj\bin\Debug\CEWebpartProj.pdb
+c:\users\debopam.basu\documents\visual studio 2012\Projects\CEWebpartProj\CEWebpartProj\obj\Debug\CEWebpartProj.csprojResolveAssemblyReference.cache
+c:\users\debopam.basu\documents\visual studio 2012\Projects\CEWebpartProj\CEWebpartProj\obj\Debug\CEWebpartProj.dll
+c:\users\debopam.basu\documents\visual studio 2012\Projects\CEWebpartProj\CEWebpartProj\obj\Debug\CEWebpartProj.pdb

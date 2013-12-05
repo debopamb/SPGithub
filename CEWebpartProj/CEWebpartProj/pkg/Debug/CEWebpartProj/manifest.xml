@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="666be62c-b5fc-433d-948f-2ffbbb4427c3" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="CEWebpartProj.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="CEWebpartProj_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

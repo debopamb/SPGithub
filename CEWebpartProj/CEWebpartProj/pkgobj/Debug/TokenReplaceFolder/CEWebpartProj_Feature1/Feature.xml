@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="039356f3-c660-47fd-add2-fedc59003284" Scope="Web" Title="CEWebpartProj Feature1">
+  <ElementManifests>
+    <ElementManifest Location="SitePages\Elements.xml" />
+    <ElementFile Location="SitePages\CEWebPart.aspx" />
+  </ElementManifests>
+</Feature>
